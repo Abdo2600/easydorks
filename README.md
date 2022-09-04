@@ -1,2 +1,5 @@
 # easydorks
-google dorks
+#run 
+chmod -x dorks.sh
+./dorks.sh exmaple.com
+have fun
